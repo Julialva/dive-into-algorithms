@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "dive-into-algorithms"
+version = "0.1.0"
+description = "Repo for algorithmic studies"
+authors = ["julialva <julio-gris@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+keras = "^2.8.0"
+pandas = "^1.4.1"
+tensorflow = "^2.8.0"
+scipy = "^1.8.0"
+h5py = "^3.6.0"
+
+[tool.poetry.dev-dependencies]
+matplotlib = "^3.5.1"
+autopep8 = "^1.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

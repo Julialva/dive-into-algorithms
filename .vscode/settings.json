@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "/home/jk/.cache/pypoetry/virtualenvs/dive-into-algorithms-gOR7jBIW-py3.9/bin/python3",
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "/home/jk/.cache/pypoetry/virtualenvs/dive-into-algorithms-gOR7jBIW-py3.9/bin/pylint",
+    "python.envFile": "${workspaceFolder}/dev.env",
+    "python.formatting.provider": "autopep8",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.rulers": [79]
+    
+    },
+}
